@@ -60,6 +60,6 @@ The `--reload` flag will detect file changes and restart the server automaticall
 2. Download the `Postman Collection` in this repo (`udacity-fsnd-udaspicelatte.postman_collection.json`)
 3. Open `Postman` and click on "Import" on the upper-left corner
 4. Select `udacity-fsnd-udaspicelatte.postman_collection.json`
-5. Run the collection.
+5. Run the collection
 
 Note that the tokens have probably expired.
